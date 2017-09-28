@@ -1,6 +1,5 @@
 # Network
 
-afl 2 tirsdag uge 5
 
 1) C8-58-76-D4-78-A7
 2) Any IP address that starts with 10 (192 and 172) is also reserved for internal use only.
